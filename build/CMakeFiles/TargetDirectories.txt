@@ -1,0 +1,5 @@
+C:/Users/Angel/Desktop/ProyectoC/cmake/CMakeTemplate/build/CMakeFiles/HelloWorld.dir
+C:/Users/Angel/Desktop/ProyectoC/cmake/CMakeTemplate/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Angel/Desktop/ProyectoC/cmake/CMakeTemplate/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Angel/Desktop/ProyectoC/cmake/CMakeTemplate/build/staticLib/CMakeFiles/staticLib.dir
+C:/Users/Angel/Desktop/ProyectoC/cmake/CMakeTemplate/build/staticLib/CMakeFiles/ALL_BUILD.dir
